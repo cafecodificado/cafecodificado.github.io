@@ -4,9 +4,7 @@ title: Gerando Chave Privada Para Android
 layout: post
 ---
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/androidKEY.jpg" width="40%" title="Chave de android, bahh dumm dishhh" alt="Android 18">
-</center>
+![Chave de android, bahh dumm dishhh](https://blodrix.github.io/public/resources/images/androidKEY.jpg)
 <center>
 <small><b>Meus poderes de montagens, são mais de 8 MILLLLL</b></small>
 </center><br>
@@ -19,9 +17,8 @@ O sistema Android requer que todas as aplicações instaladas sejam assinadas di
 O certificado não controla que aplicações o usuário pode instalar. Ele não precisa ser assinado por uma autoridade certificadora: é perfeitamente permitido, e tipico, aplicações Android usarem certificados auto-assinados.
 
 Nesse tutorial vamos apenas gerar a chave privada, em outro tutorial vamos publicar um aplicativo desenvolvido com Phonegap (Mas isso é outro tema que vamos abordar mais para frente), então...
-<center>
-<img src="http://4.bp.blogspot.com/-q00t4wvXxT0/U6C6H2onupI/AAAAAAAAEt8/LaeM9_qQ78w/s1600/e+la+vamos+nos+pica+pau.jpg" width="30%" alt="E lá vamos nós...">
-</center>
+
+![E lá vamos nós...](http://4.bp.blogspot.com/-q00t4wvXxT0/U6C6H2onupI/AAAAAAAAEt8/LaeM9_qQ78w/s1600/e+la+vamos+nos+pica+pau.jpg)
 
 ### Atenção
 
@@ -45,29 +42,21 @@ Vamos abrir o terminal  se preferir use o `Ctrl+Alt+t`:
 
 Precione `Enter`, digite a senha para a chave.
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/tela1.png" alt="tela com o comando keytool -genkey -v -keystore nomeDaChave.keystore -alias NomeChave -keyalg RSA -validity 10000" width="80%">
-</center>
+![tela com o comando keytool -genkey -v -keystore nomeDaChave.keystore -alias NomeChave -keyalg RSA -validity 10000](https://blodrix.github.io/public/resources/images/tela1.png)
 
 Logo em seguida aparecera informações que você deve preencher.
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/tela2.png" alt="tela com os dados para preenchimento" width="80%">
-</center>
+![tela com os dados para preenchimento](https://blodrix.github.io/public/resources/images/tela2.png)
 
 Depois pedira para confirmar com `Sim` ou `Não` seus dados e escolha a opção adequada...
 
 Tudo ocorrendo com planejado, aparecerá um dialogo pedindo que você digite outra senha para a chave gerada, ou se quiser usar a mesma senha que colocou no começo apenas digite `RETURN`.
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/tela3.png" alt="tela para digitar a ultima senha" width="80%">
-</center>
+![tela para digitar a ultima senha](https://blodrix.github.io/public/resources/images/tela3.png)
 
 Como não escolhemos um diretorio, por padrão o `keytool` vai gerar a chave na pasta `home`
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/tela4.png" alt="tela com o arquivo salvo na pasta home" width="80%">
-</center>
+![tela com o arquivo salvo na pasta home](https://blodrix.github.io/public/resources/images/tela4.png)
 
 *Simples assim*
 
@@ -125,7 +114,5 @@ Como precaução de segurança, não inclua essa opção na linha de comando. Se
 
 *Isso é tudo pessoal!*
 
-<center>
-<img src="https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small" title="Ate mais e obrigado pelos peixes" alt="Ate mais e obrigado pelos peixes">
-</center>
+![Até mais e obrigado pelos peixes](https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small)
 

@@ -3,7 +3,7 @@ published: true
 title: Porque aprender a programar?
 layout: post
 ---
-<center><img src="https://d2npbuaakacvlz.cloudfront.net/images/uploaded/large-present/2012/12/17/html-for-babies-6-month-old-daughter-approves-1355807217.jpg" width="75%"/> </center>
+![Babyprogrammer](https://d2npbuaakacvlz.cloudfront.net/images/uploaded/large-present/2012/12/17/html-for-babies-6-month-old-daughter-approves-1355807217.jpg)
 
 **PS: nunca sei como se usa os "PORQUES ou POR QUE"
 

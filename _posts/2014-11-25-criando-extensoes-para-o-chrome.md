@@ -3,9 +3,7 @@ published: true
 title: Criando extensões para o Google Chrome
 layout: post
 ---
-<center>
-<img src="http://s.glbimg.com/po/tt/f/original/2010/12/29/chrome-extensoes.jpg" width="75%"/>
-</center>
+![Extensões para o Google Chrome](https://build.phonegap.com/images/marketing/build-diagram.png)
 Extensões são pequenos programas que permitem a você adicionar funcionalidades para o navegador, no nosso caso, o Google Chrome, usando tecnologias WEB, tais como: JavaScript, HTML e CSS.
 
 A partir de um arquivo de manifesto, você diz ao navegador quais recursos você vai utilizar, e através de um arquivo JavaScript, você executa as tarefas desejadas.
@@ -58,6 +56,4 @@ Nosso arquivo manifest.json ficará assim:
 Para testar nossa extensão, acesse a URL: `chrome://extensions/`, marque a opção: modo desenvolvedor; clique em: Carregar extensão expandida e, selecione a pasta calculadora.
 Após fazer isso, você verá que a sua extensão foi carregada e instalada, sendo assim, você pode acessar o plugin que aparecera no lado da barra de url. 
 Pronto Uma Calculadora aparecera em forma de popup
-<center>
-<img src="http://geradormemes.com/media/created/euziag.png" width="75%"/>
-</center>
+![Meme](http://geradormemes.com/media/created/euziag.png)

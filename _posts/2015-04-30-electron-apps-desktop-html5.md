@@ -3,9 +3,7 @@ published: true
 title: Electron – Aplicações Desktop com Tecnologias Web
 layout: post
 ---
-<center>
-<img src="https://blodrix.github.io/public/resources/images/electro.jpg" width="75%" title="Opa! Electro não, Electron" alt="Opa! Electro não, Electron">
-</center>
+![Opa! Electro não, Electron](https://blodrix.github.io/public/resources/images/electro.jpg)
 
 O desenvolvimento de Aplicativos nunca esteve tão em alta como agora e muitos profissionais estão criando suas próprias aplicações web. Hoje vou mostrar uma solução que irá ajuda-lo a portar estes mesmos APPs para o Desktop.
 
@@ -15,10 +13,7 @@ Gostou da ideia? Eu tambem!
 
 ###Electron – APP Desktop 
 
-
-<center>
-<img src="https://blodrix.github.io/public/resources/images/Electron-752x400.jpg" width="75%" title="Opa! Electro não, Electron" alt="Opa! Electro não, Electron">
-</center>
+![](https://blodrix.github.io/public/resources/images/Electron-752x400.jpg)
 
 Electron permite o desenvolvimento de aplicações desktop utilizando JavaScript, HTML, CSS e Node.js. Os aplicativos criados podem ser utilizado no Windows, Mac OS e Linux.
 
@@ -26,9 +21,7 @@ Você pode gerar aplicações completas que serão multiplataforma e poderão se
 
 Tudo é muito simples no Electron e somente com a documentação oficial já é possível utiliza-lo. Mais para frente farei um exemplo e comentarei sobre, como o caso do PhoneGap que tambem estou devendo.
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/Electron_Apps.jpg" width="75%" title="Opa! Electro não, Electron" alt="Opa! Electro não, Electron">
-</center>
+![](https://blodrix.github.io/public/resources/images/Electron_Apps.jpg)
 
 #####Download Electron
 

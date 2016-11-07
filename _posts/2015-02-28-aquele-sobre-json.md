@@ -4,9 +4,7 @@ title: Aquele Sobre JSON
 layout: post
 ---
 
-<center>
-<img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/db5d3cf1-222f-4cb0-b438-b7aff22ca3d7?imageType=ws_icon_large" width="50%" title="Aquele sobre json" alt="logo json">
-</center>
+![Aquele sobre json](http://cdn.marketplaceimages.windowsphone.com/v8/images/db5d3cf1-222f-4cb0-b438-b7aff22ca3d7?imageType=ws_icon_large)
 
 >JSON é um acrônimo para "JavaScript Object Notation", é um formato leve para intercâmbio de dados computacionais. JSON é um subconjunto da notação de objeto de JavaScript, mas seu uso não requer JavaScript exclusivamente.
 <br>

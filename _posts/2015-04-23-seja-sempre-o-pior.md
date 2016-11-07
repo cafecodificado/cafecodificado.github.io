@@ -63,8 +63,4 @@ Sem saber, o músico Pat Metheny, me fez ver o quanto eu era ruim sendo o melhor
 
 ***Seja sempre o pior músico da sua banda.***
 
-<center>
-<a href="https://twitter.com/cgodrix" target="blank">
-<img src="https://blodrix.github.io/public/resources/images/nerd-godrix.png" width="40%" title="" alt="">
-</a>
-</center>
+![Godrix](https://blodrix.github.io/public/resources/images/nerd-godrix.png)

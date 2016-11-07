@@ -4,9 +4,7 @@ title: Aquele sobre PhoneGap Developer App
 layout: post
 ---
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/phonegap-developer-app-hero.png" width="100%" title="" alt="">
-</center>
+![](https://blodrix.github.io/public/resources/images/phonegap-developer-app-hero.png)
 
 Eu nunca pensei que iria usar tantas coisas da Adobe, aquela empresa dona do cara rápido da DC, mas ultimamente com o brackets e o que estão fazendo com o PhoneGap, estou gostando dela mas ainda não sou um bitch da Adobe.
 
@@ -18,10 +16,7 @@ PhoneGap Developer App é um aplicativo para [Android](https://play.google.com/s
 
 O único requisito é o computador que esta sendo utilizado no desenvolvimento estar na mesma rede do dispositivo mobile. No site oficial do PGDA você encontrará toda a documentação necessária para utilizar o recurso. Não fique preocupado, tudo é muito simples.
 
-
-<center>
-<img src="https://blodrix.github.io/public/resources/images/PhoneGap_Developer_App_Mobile.jpg" width="100%" title="" alt="">
-</center>
+![](https://blodrix.github.io/public/resources/images/PhoneGap_Developer_App_Mobile.jpg)
 
 É só entrar na pasta onde foi criado o projeto em PhoneGap e executar um comando: phonegap serve (serve mesmo, não server)
 ```
@@ -34,4 +29,3 @@ Para cancelar aperte ```control + c``` no terminal de comando
 
 Viu? muito simples, melhor do que esperar um ano para o emulador do Android ser aberto. =)
 
-@carlosgodri

@@ -4,9 +4,7 @@ title: Aquele Sobre http2
 layout: post
 ---
 
-<center>
-<img src="https://pbs.twimg.com/profile_images/2941180430/0d7d219f99c71f23a08bc26d2700b237_400x400.png" width="75%" title="Aquele sobre HTTP2" alt="HTTP2">
-</center>
+![Aquele sobre HTTP2](https://pbs.twimg.com/profile_images/2941180430/0d7d219f99c71f23a08bc26d2700b237_400x400.png)
 
 Prepare-se toda a web que você conhece esta prestes a mudar. A nova versão e muito aguardada do HTTP deu um importante passo para se tornar uma realidade na quarta-feira, quando foi oficialmente finalizado e aprovado.
 

@@ -3,9 +3,7 @@ published: true
 title: Mudando a cor do Statusbar
 layout: post
 ---
-<center>
-<img src="http://static.martinadamko.sk/files/28b2720ce5d0d2901c814f356f3c12e100bc91d9ad83a9888f449f29ce8d1970-1425x707.png" width="85%" title="Adcionando cor ao statusbar" alt="Cordova statusbar">
-</center>
+![Add cor ao statusbar](http://static.martinadamko.sk/files/28b2720ce5d0d2901c814f356f3c12e100bc91d9ad83a9888f449f29ce8d1970-1425x707.png)
 
 <br><br>
 

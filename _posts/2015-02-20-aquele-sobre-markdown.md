@@ -4,10 +4,7 @@ title: Aquele Sobre Markdown
 layout: post
 ---
 
-<center>
-<img src="http://imagens.canaltech.com.br/44814.62090-Markdown.jpg" width="75%" title="Aquele sobre Markdown" alt="Logo do Markdown">
-</center>
-
+![Aquele sobre Markdown](http://imagens.canaltech.com.br/44814.62090-Markdown.jpg)
 
 >Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz . Markdown converte seu texto em XHTML válido.<br>
 <small><cite>a enciclopédia livre, Wikipédia</cite></small>
@@ -33,7 +30,9 @@ A linguagem de marcação Markdown é muito simples de se aprender, a propriá [
 
 Então vai lá da uma olhada! 
 
-<center> <img src="http://1.bp.blogspot.com/-3-WjfzM_PWQ/UVH74fJ_eKI/AAAAAAAABOA/nTF3pEQLiso/s320/tumblr_llj233vCD71qc89r5o1_500.jpg" alt="Tio do Jack, Mais uma coisaaa!" title="Mais uma coisa" width="80%"> <br> </center>  [bonús](http://goo.gl/UXGa1x) =) 
+![Mais uma coisa](http://1.bp.blogspot.com/-3-WjfzM_PWQ/UVH74fJ_eKI/AAAAAAAABOA/nTF3pEQLiso/s320/tumblr_llj233vCD71qc89r5o1_500.jpg)
+
+[bonús](http://goo.gl/UXGa1x) =) 
   
 
 

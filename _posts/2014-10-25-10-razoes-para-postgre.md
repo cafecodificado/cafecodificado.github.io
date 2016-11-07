@@ -3,9 +3,7 @@ published: true
 title: 10 Razões para usar PostgreSQL
 layout: post
 ---
-<center>
-<img src="http://www.rodrigocalado.com.br/wp-content/uploads/2014/02/postgres.png" width="75%"/>
-</center>
+![POstgree](http://www.rodrigocalado.com.br/wp-content/uploads/2014/02/postgres.png)
 
 1. Código aberto (its free!) e de alta qualidad
 2. Licença BSD - Ou seja, você pode fazer quase tudo o que quiser com o produto, sem restrições.

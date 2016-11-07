@@ -3,9 +3,7 @@ published: true
 title: Aquele sobre Crosswalk
 layout: post
 ---
-<center>
-<img src="https://crosswalk-project.org/assets/identity/crosswalkproject-logo-horizontal-dark.png" width="85%" title="Aquele sobre Crosswalk" alt="Crosswalk Project">
-</center>
+![Aquele sobre Crosswalk](https://crosswalk-project.org/assets/identity/crosswalkproject-logo-horizontal-dark.png)
 
 <br><br>
 
@@ -32,13 +30,11 @@ ou
 
 Você também pode adicionar o plugin de forma mais fácil ainda, se você estiver usando o intelXDK, basta dar um check no input.
 
-<img src="https://ionickers.github.io/public/images/crosswalk.png">
+![](https://ionickers.github.io/public/images/crosswalk.png)
 
 > O Crosswalk garante compatibilidade para Android antigos, MASSS...
 
-<center>
-<img src="https://49.media.tumblr.com/tumblr_maqoftf6T31r2a5r0o1_500.gif">
-</center>
+![](https://49.media.tumblr.com/tumblr_maqoftf6T31r2a5r0o1_500.gif)
 
 Ao adicionar o Crosswalk em sua aplicação, sera adicionado um webview, o que ocasionará em mais ou menos 20 MB a mais em sua aplicação, então não esqueça de na hora de subir para os marketplace, faça a build de seus apps com o Crosswalk e sem, para os dispositivos que não necessitam do Crosswalk para deixar mais leve.
 

@@ -3,14 +3,10 @@ published: true
 title: Emmet não é tecnlogia, é magia mesmo.
 layout: post
 ---
-<center>
-<img src="http://upload.wikimedia.org/wikipedia/en/9/97/Doc_Brown.JPG" title="Ops não esse!" alt="Prof Emmett" width="80%">
-</center>
+![Ops não esse!](http://upload.wikimedia.org/wikipedia/en/9/97/Doc_Brown.JPG)
 ***Descupe Dr. Emmett Brown, mas não é do senhor que vamos falar...***
 
-<center>
-<img src="http://www.n8d.at/blog/wp-content/uploads/2014/11/emmet.io_.jpg" width="100%" title="Emmet tools for developers" alt="Emmet tools for developers">
-</center>
+![Emmet tools for developers](http://www.n8d.at/blog/wp-content/uploads/2014/11/emmet.io_.jpg)
 
 <hr>
 Bora falar sobre o Emmet, uma ferramenta que é, indispensável, e utilizado por muitos desenvolvedores que já tenha boa experiência. 
@@ -67,9 +63,7 @@ Resultará nisso:
      left: 0;
 }
 ```
-<center>
-<img src="http://media.tumblr.com/35b625bfac2c9521d57fa44a8d561f91/tumblr_inline_n851dfII0R1sr1i40.gif" width="100%" title="Isso é lindo" alt="Isso é lindo">
-</center>
+![lindhu](http://media.tumblr.com/35b625bfac2c9521d57fa44a8d561f91/tumblr_inline_n851dfII0R1sr1i40.gif)
 
 
 *São uma porrada de abreviações que o Emmet possui e ainda permite que você mesmo crie suas próprias abreviações. Na [Documentação](http://docs.emmet.io/abbreviations/) você pode ler todas as abreviações disponíveis.*

@@ -3,9 +3,7 @@ published: true
 title: A Tela Branca d̶a̶ ̶M̶o̶r̶t̶e̶ do Ionic
 layout: post
 ---
-<center>
-<img src="https://www.firebase.com/resources/images/blog/ionic-blank-template.png" width="25%" title="Tela branca erro Ionic" alt="Tela branca do ionic">
-</center>
+![Tela branca erro Ionic](https://www.firebase.com/resources/images/blog/ionic-blank-template.png)
 
 A tela toda em branco no Ionic acontece, por causa do Content Security Policy(CSP), presente na nova versão do Cordova 5x que alterou algumas politicas de seguranças, basicamente ele controla solicitações de rede, imagens, src e etc, através do webview.
 
