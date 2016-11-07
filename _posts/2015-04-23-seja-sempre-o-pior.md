@@ -4,9 +4,7 @@ title: Seja sempre o pior
 layout: post
 ---
 
-<center>
-<img src="https://blodrix.github.io/public/resources/images/programador-apaixonado.png" width="40%" title="" alt="">
-</center>
+![Livro: Programador apaixonado](https://blodrix.github.io/public/resources/images/programador-apaixonado.png)
 
 Durante minha vida profissional, eu passei por momentos bem extremos: Em um, no início, eu estava muito produtivo, obcecado por melhorar. No outro, por meses e meses, eu me sentia desmotivado. Mesmo que financeiramente eu estivesse bem melhor, mas eu não estava feliz com o que eu produzia. Eu via outras pessoas produzindo e pensava: Caramba! Por que eu não pensei nisso?
 
