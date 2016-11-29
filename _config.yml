@@ -1,10 +1,10 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://cafecodificado.github.io
-title: Café Codificado
+url: http://debugando.github.io
+title: Debugando
 email: 
-author: cafecodificado
+author: godrix
 description: Manhãs são para café e codificação
 paginate: 5
 google_analytics: 
